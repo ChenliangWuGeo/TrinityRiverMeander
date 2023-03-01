@@ -7,6 +7,8 @@ The two scripts "progradationCase.m" and "EGradient.m" can simulate Trinity Rive
 
 Run the script "plotFig" will provide the results of the simulation.
 
+
 References
+
 Ikeda, S., Parker, G. & Sawai, K. Bend theory of river meanders. Part 1. Linear development. Journal of Fluid Mechanics 112, 363–377 (1981).
 Sun, T., Meakin, P., Jøssang, T. & Schwarz, K. A Simulation Model for Meandering Rivers. Water Resources Research 32, 2937–2954 (1996).
